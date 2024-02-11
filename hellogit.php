@@ -1,2 +1,2 @@
 <?php
-print_r("Hello Git!");
+print_r("New Hello Git!");
