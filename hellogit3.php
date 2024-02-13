@@ -1,2 +1,2 @@
 <?php
-print_r("Hello Git 3 v login!");
+print_r("Hello Git 3 v3!");
